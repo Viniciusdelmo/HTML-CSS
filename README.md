@@ -26,6 +26,11 @@ O presente estudo tem por obejtivo o desenvolvimento de uma página WEB para ven
 3. Substiuir campo "Sobre" por "Promoções"
 4. Atualizar campo de mais informações
 5. Deixar a aplicação mais amigável esteticamente. 
+
+## 👨‍💻 Tecnologias utilizadas:
+* HTML5
+* CSS3
+
 ## 🔗Link de acesso: **https://profissacursos.netlify.app/**
 #### 🔄Última Atualização: 20/08/2022
   
